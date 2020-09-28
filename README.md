@@ -25,6 +25,25 @@
 * Admin processes = Run admin/management tasks as one-off processes
 
 
+
+Microservices:
+
+Client Side load balancer - Ribbon
+
+Distributed Tracking - Sluth and Zipkin
+
+Fault Tolerance using Hystrix
+
+Feign Client
+
+Router and ZUUL
+
+Service Registry using Eureka
+
+Spring Cloud BUS
+
+Spring Cloud Config 
+
 <a href="http://starwalt.in">Follow us on Blog</a>
 
 

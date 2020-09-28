@@ -24,25 +24,23 @@
 
 * Admin processes = Run admin/management tasks as one-off processes
 
+## Microservices:
 
+* Client Side load balancer - Ribbon
 
-Microservices:
+* Distributed Tracking - Sluth and Zipkin
 
-Client Side load balancer - Ribbon
+* Fault Tolerance using Hystrix
 
-Distributed Tracking - Sluth and Zipkin
+* Feign Client
 
-Fault Tolerance using Hystrix
+* Router and ZUUL
 
-Feign Client
+* Service Registry using Eureka
 
-Router and ZUUL
+* Spring Cloud BUS
 
-Service Registry using Eureka
-
-Spring Cloud BUS
-
-Spring Cloud Config 
+* Spring Cloud Config 
 
 <a href="http://starwalt.in">Follow us on Blog</a>
 
